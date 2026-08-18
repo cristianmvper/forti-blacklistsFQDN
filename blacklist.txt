@@ -79,3 +79,7 @@ brebe01.duckdns.org
 juanmisagui.freeddns.org
 juanlopezpu2026.kozow.com
 rpg2.duckdns.org
+netlify.com
+vercel.app
+firebase.google.com
+surgehq.ai
